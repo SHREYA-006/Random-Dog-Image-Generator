@@ -1,0 +1,30 @@
+body{
+    background-color: #9ACBD0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.imagebox{
+    margin-top: 30px;
+}
+
+p{
+    color: #F2EFE7;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #006A71;
+}
+
+.button{
+    background-color: #006A71;
+    text-align: center;
+    font-size: medium;
+    color: #F2EFE7;
+    border: 2px solid #9ACBD0;
+    border-radius: 2px;
+    margin-top: 20px;
+}
